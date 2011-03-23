@@ -13,7 +13,7 @@ the classy gentlemen behind
 Featured Repo of the Week
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-devstructure/`blueprint <https://github.com/devstructure/blueprint>`_
+`devstructure/blueprint <https://github.com/devstructure/blueprint>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 This is one of the coolest projects I've seen in a long time.
@@ -43,7 +43,7 @@ Bon appétit!
 Awesome Repo of the Week
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-drbrain/`meme <https://github.com/drbrain/meme/>`_
+`drbrain/meme <https://github.com/drbrain/meme/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I CAN HAS MEME? Meme is an awesome Ruby gem for generating
@@ -65,7 +65,7 @@ Remarkable Repos
 ~~~~~~~~~~~~~~~~
 
 
--  taitems/`Aristo-jQuery-UI-Theme <https://github.com/taitems/Aristo-jQuery-UI-Theme>`_:
+-  `taitems/Aristo-jQuery-UI-Theme <https://github.com/taitems/Aristo-jQuery-UI-Theme>`_:
      This is not a new project, but it received a lot of attention this
      week. Aristo is a
      `beautiful <http://taitems.github.com/Aristo-jQuery-UI-Theme/>`_
@@ -76,7 +76,7 @@ Remarkable Repos
      less-than-desirable themes available for its widgets. Aristo
      strives to fix that.
 
--  brainsik/`virtualenv-burrito <https://github.com/brainsik/virtualenv-burrito>`_:
+-  `brainsik/virtualenv-burrito <https://github.com/brainsik/virtualenv-burrito>`_:
      This project simplifies the
      `virtualenv <https://github.com/pypa/virtualenv>`_/wrapper setup in
      your Python development environment. Sprinters at last week's PyCon
@@ -84,7 +84,7 @@ Remarkable Repos
      environments before they could contribute. This project aims to
      remove that overhead.
 
--  maccman/`ichabod <https://github.com/maccman/ichabod>`_:
+-  `maccman/ichabod <https://github.com/maccman/ichabod>`_:
      This project lets you run headless WebKit JavaScript tests from the
      command line. It currently offers Jasmine and QUnit testing
      support. It also gives you an interactive JavaScript console that
@@ -96,7 +96,7 @@ Promising Repos
 ~~~~~~~~~~~~~~~
 
 
--  twitter/`commons <https://github.com/twitter/commons>`_:
+-  `twitter/commons <https://github.com/twitter/commons>`_:
      Twitter's internal common libraries for the JVM. Readme and build
      instructions haven't been written yet, but this looks like an
      extensive library suite. Everything from a
@@ -105,7 +105,7 @@ Promising Repos
      `the documentation <http://twitter.github.com/commons/apidocs/index.html>`_
      to learn more.
 
--  extend/`cowboy <https://github.com/extend/cowboy>`_: 
+-  `extend/cowboy <https://github.com/extend/cowboy>`_: 
      This "Small, fast, modular HTTP server" is implemented 100% in Erlang.
      It's an ambitious project that's still in the early development
      stage. Contributors are welcome!
