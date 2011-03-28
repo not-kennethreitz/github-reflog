@@ -15,13 +15,17 @@ Releases
 +-------------+--------------+------------+------------+
 |     sha     |    ref       |    url     |     rst    |
 +=============+==============+============+============+
-| ``eb73418`` | ``HEAD@{0}`` | `v1.3.21`_ | `r1.3.21`_ |
+| ``efdef99`` | ``HEAD@{0}`` | `v1.3.28`_ | `r1.3.28`_ |
++=============+==============+============+============+
+| ``eb73418`` | ``HEAD@{1}`` | `v1.3.21`_ | `r1.3.21`_ |
 +-------------+--------------+------------+------------+
 
 
 .. _`v1.3.21`: https://github.com/blog/818-github-reflog-v1-3-21
 .. _`r1.3.21`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.3.21.rst
 
+.. _`v1.3.28`: https://github.com/blog/823-github-reflog-v1-3-28
+.. _`r1.3.28`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.3.28.rst
 
 Feedback is appreciated! Send any questions, suggestions, and
 anonymous tips to reflog@kennethreitz.com.
