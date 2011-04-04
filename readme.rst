@@ -1,7 +1,7 @@
-GitHub Reflog 
+GitHub Reflog
 =============
 
-Welcome to The GitHub Reflog archive. The Reflog is a weekly chronicle 
+Welcome to The GitHub Reflog archive. The Reflog is a weekly chronicle
 of awesome repos, published on the GitHub blog,  brought to
 you by `Kenneth Reitz <https://github.com/kennethreitz>`_, one of
 the classy gentlemen behind
@@ -15,9 +15,11 @@ Releases
 +-------------+--------------+------------+------------+
 |     sha     |    ref       |    url     |     rst    |
 +=============+==============+============+============+
-| ``efdef99`` | ``HEAD@{0}`` | `v1.3.28`_ | `r1.3.28`_ |
+| ``5d7cfdb`` | ``HEAD@{0}`` | `v1.4.04`_ | `r1.4.04`_ |
 +-------------+--------------+------------+------------+
-| ``eb73418`` | ``HEAD@{1}`` | `v1.3.21`_ | `r1.3.21`_ |
+| ``efdef99`` | ``HEAD@{1}`` | `v1.3.28`_ | `r1.3.28`_ |
++-------------+--------------+------------+------------+
+| ``eb73418`` | ``HEAD@{2}`` | `v1.3.21`_ | `r1.3.21`_ |
 +-------------+--------------+------------+------------+
 
 
@@ -26,6 +28,9 @@ Releases
 
 .. _`v1.3.28`: https://github.com/blog/823-github-reflog-v1-3-28
 .. _`r1.3.28`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.3.28.rst
+
+.. _`v1.4.04`: https://github.com/blog/829-github-reflog-v1-4-04
+.. _`r1.4.04`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.4.04.rst
 
 Feedback is appreciated! Send any questions, suggestions, and
 anonymous tips to reflog@kennethreitz.com.
