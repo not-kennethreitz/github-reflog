@@ -15,11 +15,13 @@ Releases
 +-------------+--------------+------------+------------+
 |     sha     |    ref       |    url     |     rst    |
 +=============+==============+============+============+
-| ``5d7cfdb`` | ``HEAD@{0}`` | `v1.4.04`_ | `r1.4.04`_ |
+| ``6243f56`` | ``HEAD@{0}`` | `v1.4.12`_ | `r1.4.12`_ |
 +-------------+--------------+------------+------------+
-| ``efdef99`` | ``HEAD@{1}`` | `v1.3.28`_ | `r1.3.28`_ |
+| ``5d7cfdb`` | ``HEAD@{1}`` | `v1.4.04`_ | `r1.4.04`_ |
 +-------------+--------------+------------+------------+
-| ``eb73418`` | ``HEAD@{2}`` | `v1.3.21`_ | `r1.3.21`_ |
+| ``efdef99`` | ``HEAD@{2}`` | `v1.3.28`_ | `r1.3.28`_ |
++-------------+--------------+------------+------------+
+| ``eb73418`` | ``HEAD@{3}`` | `v1.3.21`_ | `r1.3.21`_ |
 +-------------+--------------+------------+------------+
 
 
@@ -31,6 +33,9 @@ Releases
 
 .. _`v1.4.04`: https://github.com/blog/829-github-reflog-v1-4-04
 .. _`r1.4.04`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.4.04.rst
+
+.. _`v1.4.12`: https://github.com/blog/837-github-reflog-v1-4-12
+.. _`r1.4.12`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.4.12.rst
 
 Feedback is appreciated! Send any questions, suggestions, and
 anonymous tips to reflog@kennethreitz.com.
