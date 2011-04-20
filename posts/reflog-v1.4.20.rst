@@ -31,7 +31,7 @@ Featured Repo of the Week
     powers the JavaScript for the open source campfire-esque
     `Holla <https://github.com/maccman/holla>`_ project.
 
-    .. figure:: http://f.cl.ly/items/28090E0U1l3l1r0D0k0X/Screen%20shot%202011-04-20%20at%2012.50.42%20PM.png
+    .. figure:: https://github.com/kennethreitz/github-reflog/raw/52de8843ddf4fec679320a29646055952457abda/ext/spine-todo.png
        :align: center
        :alt: 
    
