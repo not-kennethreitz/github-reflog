@@ -5,7 +5,7 @@ GitHub Reflog v1.4.20 (Русскоязычная версия)
 репозиториев на GitHub и активности открытого сообщества. Предыдущие выпуски 
 вы сможете найти в
 `Архиве Reflog <https://github.com/kennethreitz/github-reflog>`_ либо в 
-`Архиве русскоязычной версии Reflog <https://github.com/kennethreitz/github-reflog>`_.
+`Архиве русскоязычной версии Reflog <https://github.com/amper/github-reflog>`_.
 
 На этой неделе мы приветствуем на GiHub Python-модуль
 `simplejson <https://github.com/simplejson/simplejson/>`_
