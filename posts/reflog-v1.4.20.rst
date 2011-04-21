@@ -90,32 +90,31 @@ GitHub Reflog v1.4.20 (Русскоязычная версия)
    создавать страницы прямо из вашего терминала.
    Там небольшой todo-лист, так что 
 
--  `disqus/mule <https://github.com/disqus/mule>`_: A full
-   distributed test runner framework for Python, powered by Celery.
-   Beware, it's undergoing heavy development and is far from stable.
-   When it's ready, it will include out of the box support for xunit,
-   multiprocessing, and unittest2.
+-  `disqus/mule <https://github.com/disqus/mule>`_: Полностью распределённый
+   Python-фреймворк для запуска тестов, построенный на Celery.
+   Осторожно, он сейчас переживает очень активную разработку и далёк от стабильной
+   версии. Когда он будет готов, он будет "из коробки" поддерживать xunit,
+   multiprocessing и unittest2.
 
 -  `seppo0010/redislite <https://github.com/seppo0010/redislite>`_:
-   SQLite-style local database for Redis instead of SQL. This BSD
-   licensed project is is still in its early stages, but will be
-   extremely useful once it is complete. Definitely keep your eye on
-   it.
+   Локальная база данных в стиле SQLite для Redis на замену SQL. Проект 
+   лицензирован под BSD и находится на ранней стадии развития, но будет 
+   чрезвычайно полезны по завершении. Определенно, его не стоит упускать из виду.
 
--  `dbyrne/4clojure <https://github.com/dbyrne/4clojure>`_: An
-   interactive tutorial website for beginners learning Clojure
-   (similar to
-   `Try Redis <https://github.com/alexmchale/try.redis>`_). There's a
-   bit of work to be done still, so check out the
-   `issues page <https://github.com/dbyrne/4clojure/issues>`_ for ways
-   to help.
+-  `dbyrne/4clojure <https://github.com/dbyrne/4clojure>`_: Интерактивное учебное
+  пособие в виде веб-сайта для начинающих изучать Clojure (похож на
+   `Try Redis <https://github.com/alexmchale/try.redis>`_). 
+   Там ещё предстоит кое-что доделать, так что гляньте страницы с задачами
+   `страницы с задачами <https://github.com/dbyrne/4clojure/issues>`_, еслиб
+   захотите помочь.
 
 
-Feedback is appreciated! Send any questions, suggestions, and
-anonymous tips to reflog@kennethreitz.com.
+Обратная связь приветствуется! Отправляйте ваши вопросы, предложения, и
+анонимные советы на reflog@kennethreitz.com.
+Email для связи по поводу русскоязычной версии: alone.amper+reflog@gmail.com
 
 --------------
 
-For more open source news, check out
-`The Changelog <http://thechangelog.com>`_ and
-`github.com/explore <http://github.com/explore>`_.
+Больше новостей о проектах с открытым исходным кодом, вы можете получить на
+`The Changelog <http://thechangelog.com>`_ и
+`github/explore <http://github.com/explore>`_.
