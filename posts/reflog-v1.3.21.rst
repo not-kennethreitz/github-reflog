@@ -9,7 +9,7 @@ GitHub Reflog v1.3.21 (Русскоязычная версия)
 
 
 
-Рекомендуемые репозиторий этой недели
+Рекомендуемый репозиторий этой недели
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `devstructure/blueprint <https://github.com/devstructure/blueprint>`_
@@ -26,9 +26,10 @@ GitHub Reflog v1.3.21 (Русскоязычная версия)
 конфигурацию вашего сервера.
 
 А теперь Blueprint вышел на новый уровень: он генерирует полные копии/манифесты 
-для `Chef <https://github.com/opscode/chef>`_ и `Puppet <https://github.com/puppetlabs/puppet>`_ с помощью команды ``blueprint-create {-C | -P}``.
+для `Chef <https://github.com/opscode/chef>`_ и `Puppet <https://github.com/puppetlabs/puppet>`_ 
+с помощью команды ``blueprint-create {-C | -P}``.
 
-Конечно же, необходимо проверить качество резульатат такого копирования, но 
+Конечно же, необходимо проверить качество результата такого копирования, но 
 это определённо уже большой шаг в автоматизации ваших систем.
 
 Bon appetit!
@@ -61,7 +62,8 @@ PHILOSORAPTOR, KEANU, TROLLFACE, и многое другое.
 
 -  `taitems/Aristo-jQuery-UI-Theme <https://github.com/taitems/Aristo-jQuery-UI-Theme>`_:
      Это не новый проект, но он привлек очень много внимания на этой неделе.
-     Aristo - это `прекрасная <http://taitems.github.com/Aristo-jQuery-UI-Theme/>`_ тема оформления для `jQuery UI <https://github.com/jquery/jquery-ui>`_ 
+     Aristo - это `прекрасная <http://taitems.github.com/Aristo-jQuery-UI-Theme/>`_ 
+     тема оформления для `jQuery UI <https://github.com/jquery/jquery-ui>`_ 
      которая эмулирует элегантный стиль JavaScript-фреймворка `Cappuccino <https://github.com/280north/cappuccino>`_. 
      jQuery UI имеет плохую репутацию за то, что имеет меньше-чем-хочется тем 
      оформления для своих виджетов. Aristo стремится исправить это.
