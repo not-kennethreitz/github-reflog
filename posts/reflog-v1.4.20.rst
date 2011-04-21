@@ -1,99 +1,94 @@
-GitHub Reflog v1.4.20
+GitHub Reflog v1.4.20 (Русскоязычная версия)
 =====================
 
-Welcome to the **The GitHub Reflog** — the weekly chronicle of
-remarkable GitHub repos and community activity. For previous
-editions, check out
-`The Reflog Archive <https://github.com/kennethreitz/github-reflog>`_.
+Добро пожаловать в **The GitHub Reflog** — еженедельную хронику замечательных 
+репозиториев на GitHub и активности открытого сообщества. Предыдущие выпуски 
+вы сможете найти в
+`Архиве Reflog <https://github.com/kennethreitz/github-reflog>`_ либо в 
+`Архиве русскоязычной версии Reflog <https://github.com/kennethreitz/github-reflog>`_.
 
-This week, we welcome Python's
-`simplejson <https://github.com/simplejson/simplejson/>`_ module
-and *The Joy of Clojure*
-`code examples <https://github.com/joyofclojure/book-source>`_ to
-GitHub!
+На этой неделе мы приветствуем на GiHub Python-модуль
+`simplejson <https://github.com/simplejson/simplejson/>`_
+и `примеры кода <https://github.com/joyofclojure/book-source>`_ *The Joy of Clojure*!
 
-Featured Repo of the Week
+Рекомендуемый репозиторий этой недели
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `maccman/spine <https://github.com/maccman/spine>`_
 
-    Spine is a micro MVC framework for building JavaScript
-    applications. While similar in concept to
+    Spine - это микро-MVC-фреймворк для создания JavaScript-приложений. 
+    Хотя есть аналогичный по своей концепции 
     `Backbone.js <https://github.com/documentcloud/backbone>`_, Spine
-    contains some key differences. It offers class inheritance,
-    controllers, a model system with a full ORM, and HTML5 local
-    storage support.
+    всё же имеет несколько ключевых отличий. Он предлагает наследование классов,
+    контроллеры, систему моделей с полным ORM, и поддержку локальных хранилищ HTML5.
 
-    Spine comes with demo
-    `todo system <https://github.com/maccman/spine.todos>`_ and
-    `contact manager <https://github.com/maccman/spine.contacts>`_
-    applications to give you a feel of its capabilities. It currently
-    powers the JavaScript for the open source campfire-esque
-    `Holla <https://github.com/maccman/holla>`_ project.
+    Spine поставляется с демонстрационной 
+    `todo-системой <https://github.com/maccman/spine.todos>`_ и
+    `приложением Менеджер Контактов <https://github.com/maccman/spine.contacts>`_,
+    показывающими его вохможности. Настоящую силу JavaScript показывает проект
+    `Holla <https://github.com/maccman/holla>`_.
 
     .. figure:: https://github.com/kennethreitz/github-reflog/raw/52de8843ddf4fec679320a29646055952457abda/ext/spine-todo.png
        :align: center
        :alt: 
    
 
-    Check out the
-    `elegant documentation <http://maccman.github.com/spine/>`_ to
-    learn more.
+    Посмотрите
+    `элегантную документацию <http://maccman.github.com/spine/>`_, чтобы узнать больше.
 
-Awesome Repo of the Week
+Удивительный репозиторий этой недели
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 `aarongough/flea <https://github.com/aarongough/flea>`_
 
-    Flea is a mini Lisp interpreter written in Ruby, inspired by
-    portions of Scheme. Obviously, this isn't designed to be used in
-    production for any reason. The purpose of the project is to simply
-    showcase the versatility of dynamic languages like Ruby.
+    Flea является мини-интерпретатором Lisp, написанным на Ruby, похожим на Scheme.
+    Очевидно он не предназначен для серьезного использования в ппроизводстве по
+    множеству причин. Цель проекта - просто продемонстрировать универсальность
+    динамических языков, таких как Ruby. 
 
-    Run ``$ gem install flea`` to give it a spin.
+    Для установки: ``$ gem install flea``.
 
-Remarkable Repos
+Замечательные репозитории
 ~~~~~~~~~~~~~~~~
 
 
 -  `anchepiece/statuspanic <https://github.com/anchepiece/statuspanic>`_:
-   A clone of Panic's infamous
+   Клон печально известного
    `Status Board <http://www.panic.com/blog/2010/03/the-panic-status-board/>`_,
-   powered by PHP. It features bar charts, weather widgets, and a
-   countdown timer. Head over to the
-   `example installation <http://allynbauer.com/software/statuspanic/>`_
-   to see it in action.
+   написанный на PHP. Умеет показывать гистограммы, погодные виджеты и таймеры. 
+   Попробуйте
+   `установленные примеры <http://allynbauer.com/software/statuspanic/>`_,
+   чтобы увидеть его в действии.
 
 -  `hanwen/go-fuse <https://github.com/hanwen/go-fuse>`_:
-   Native FUSE bindings for the Go programming language. Go-fuse
-   strives to be as fast as possible. Support for individual
-   filesystems isn't included (at this time), but example
-   implementations of zipfs and unionfs are.
+   Нативные биндинги FUSE для языка программирования Go. Для Go-fuse стремятся
+   добиться максимально быстрой работы. Поддержка отдельных файловых систем 
+   не включена (пока что), но есть примеры реализации zipfs и unionfs.
 
--  `gmarik/vundle <https://github.com/gmarik/vundle>`_: A true
-   plugin manager for VIM. Inspired by the ever popular
-   `pathogen <https://github.com/tpope/vim-pathogen>`_ for VIM and
-   `bundler <https://github.com/carlhuda/bundler>`_ for Ruby, Vundle
-   gives you the ability to search, install, update, and configure
-   your scripts, all from interactive mode.
+-  `gmarik/vundle <https://github.com/gmarik/vundle>`_: 
+   Настоящий менеджер плагинов для VIM. Вдохновлённый популярностью
+   `pathogen <https://github.com/tpope/vim-pathogen>`_ для VIM и
+   `bundler <https://github.com/carlhuda/bundler>`_ для Ruby, Vundle
+   дает вам возможность поиска, установки, обновления и настройки
+   ваших скриптов, и все это в интерактивном режиме.
 
 
-Promising Repos
+Перспективные репозитории
 ~~~~~~~~~~~~~~~
 
 
 -  `boxedice/python-daemon <https://github.com/boxedice/python-daemon>`_:
-   A simple Python daemonizer class. This project allows your Python
-   application to continue running in the background as a daemon.
-   Features include scheduling, a standard PID file interface, and
-   support for Unix, Linux and OS X.
+   Простой "демонизатор" классо Python. Этот проект позволяет вашему 
+   Python-приложению продолжать работать в фоновом режиме, как демон.
+   Также он включает планирование, стандартный PID, поддерживает
+   Unix, Linux и OS X.
 
--  `88mph/wpadmin <https://github.com/88mph/wpadmin>`_: Command
-   line tool for WordPress administration, written in PHP. Currently,
-   it can manage user accounts and configuration values. In the near
-   future, you'll also be able to publish posts and pages right from
-   your terminal. There's a small todo list, so pull requests are
-   welcome!
+-  `88mph/wpadmin <https://github.com/88mph/wpadmin>`_: Утилита
+   для администрирования WordPress из командной строки, написанная на PHP. 
+   В настоящее время может управлять учетными записями пользователей и 
+   значениями настроек. В ближайшем будущем, вы сможете публиковать сообщения и 
+   создавать страницы прямо из вашего терминала.
+   Там небольшой todo-лист, так что 
 
 -  `disqus/mule <https://github.com/disqus/mule>`_: A full
    distributed test runner framework for Python, powered by Celery.
