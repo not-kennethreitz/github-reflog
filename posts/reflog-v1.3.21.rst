@@ -9,7 +9,7 @@ GitHub Reflog v1.3.21 (Русскоязычная версия)
 
 
 
-Рекомендуемые репозитории этой недели
+Рекомендуемые репозиторий этой недели
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `devstructure/blueprint <https://github.com/devstructure/blueprint>`_
@@ -35,7 +35,7 @@ Bon appetit!
 
 
 
-Удивительные репозитории этой недели
+Удивительные репозиторий этой недели
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 `drbrain/meme <https://github.com/drbrain/meme/>`_
