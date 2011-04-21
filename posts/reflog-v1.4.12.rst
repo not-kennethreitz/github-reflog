@@ -1,104 +1,101 @@
-GitHub Reflog v1.4.12
+GitHub Reflog v1.4.12 (Русскоязычная версия)
 =====================
 
-Welcome to the fourth edition of **The GitHub Reflog** — the weekly
-chronicle of remarkable GitHub repos and community activity. For
-previous editions, check out
-`The Reflog Archive <https://github.com/kennethreitz/github-reflog>`_.
+Добро пожаловать в четвёртое издание of **The GitHub Reflog** — еженедельная
+хроника замечательных репозиториев GitHub и активности открытого сообщества. 
+Предыдущие выпуски вы можете прочесть
+`в архиве Reflog <https://github.com/kennethreitz/github-reflog>`_ или 
+`в архиве русскоязычной версии Reflog <https://github.com/amper/github-reflog>`_ .
 
-Featured Repo of the Week
+
+Рекомендуемый репозиторий этой недели
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `apenwarr/sshuttle <https://github.com/apenwarr/sshuttle>`_
 
-This nifty project got quite a bit of press this week, and has
-already become indispensable part of my toolkit. Sshuttle calls
-itself a "Poor Man's VPN". It allows you to connect to a remote
-machine as a non-privileged user and forward every port on its
-network to your local machine. Once enabled, all traffic is being
-routed through the server. If the server has network access to
-machines that your machine cannot, you can now access those boxes
-as if they were on your local network.
+Это отличный проект получил довольно много упоминаний в прессе на этой неделе, 
+и уже стал неотъемлемой частью моего тулкита. Sshuttle называет 
+себя «VPN бедняка». Она позволяет подключаться к удаленному компьютеру в 
+качестве непривилегированного пользователя и перенаправлять каждый порт той 
+сети на ваш локальный компьютер. После включения, весь трафик перенаправляется 
+через сервер. Если сервер имеет доступ к сети для машин, к которым ваша машина 
+не имеет доступа, то теперь вы можете получить доступ к ним, как если бы они
+были в вашей локальной сети.
 
-Port forwarding with OpenSSH is hardly new, but sshuttle forwards
-*all* ports instead of only ones you specify. The only dependency
-on the server is OpenSSH itself.
+Перенаправление портов с OpenSSH не является новинкой, но sshuttle передает 
+все порты, а не только те, которые вы укажете. На сервере он зависит от OpenSSH.
 
-Liftoff!
 
-Awesome Repo of the Week
+Удивительные репозиторий этой недели
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-`asarazan/Narwhalingus-EP <https://github.com/asarazan/Narwhalingus-EP>`_
+@Asarazan нашел новое великолепное применение GitHub на этой неделе. 
+Он и его группа, Bristol 7's, решили `опубликовать их EP <http://thebristol7s.wordpress.com/2011/04/10/fork-us-on-github/>`_
+под лицензией Creative Commons. В духе открытого исходного кода, было решено 
+опубликовать ее на GitHub!
 
-@asarazan found a great new use for GitHub this week. His band, The
-Bristol 7's, decided to
-`publish their EP <http://thebristol7s.wordpress.com/2011/04/10/fork-us-on-github/>`_
-under the Creative Commons license. In the spirit of open source,
-he decided to put it up on GitHub!
+Репо включает окончательные миксы, а также отдельные аудио-треки для ремиксов. 
+Запросы на пул приветствуются!
 
-The repo includes final mixes as well as the individual audio
-tracks for remixing. Pull requests welcome!
 
-Remarkable Repos
+Замечательные репозитории
 ~~~~~~~~~~~~~~~~
 
 
 -  `jonromero/music-as-data <https://github.com/jonromero/music-as-data>`_:
-   This Clojure project offers a live programming environment for
-   generating music sequences. It allows you to treat the sequences as
-   data and apply transformations to them in live environments. Check
-   out the `project page <http://mad.emotionull.com/>`_ to learn
-   more.
+   Этот проект на Clojure предлагает среду программирования для создания 
+   музыкальных последовательностей. Он позволяет вам обращаться к 
+   последовательностям данных и применять к ним трансформации в «прямом эфире». 
+   Посетите `страницу проекта <http://mad.emotionull.com/>`_, чтобы узнать больше.
 
--  `37signals/pow <https://github.com/37signals/pow>`_: This
-   new project from 37 Signals is a zero-config development server for
-   Rack applications. Once you run its super simple installer, go to
-   ``~/.pow`` and make a symlink to your app's directory. And, that's
-   it! The app is now available locally at ``http://appname.dev``.
+-  `37signals/pow <https://github.com/37signals/pow>`_: 
+   Это новый проект от 37 Signals является не требующим настройки сервером 
+   разработки для приложений. Как только вы запустите его супер-простой 
+   инсталлятор, перейдите в ``~/.pow``, и сделайте символическую ссылку на каталог 
+   вашего приложения. И это все! Приложения теперь доступны локально на ``http://appname.dev``.
 
 -  `DanielWaterworth/raphters <https://github.com/DanielWaterworth/raphters>`_:
-   This new framework is for developing web applications in C. Yes,
-   you read correctly. If you're a C aficionado that has always
-   dreamed of building a modern webapp in your favorite language,
-   Raphters is a great place to start. It provides a simple API for
-   handling cookies, sessions, and templates. The resulting
-   applications can be deployed with FastCGI.
+   Это новый фреймворк для разработки веб-приложений на языке C. 
+   Да, вы прочитали правильно. Если вы поклонник C и всегда мечтали создать 
+   современное веб-приложение на вашем любимом языке, Raphters очень подходит 
+   для начала. Он предоставляет простой API для обработки cookies, сессий
+   и шаблонов. Приложения могут быть развернуты с помощью FastCGI.
 
 
-Promising Repos
+Перспективные репозитории
 ~~~~~~~~~~~~~~~
 
 
--  `cldwalker/tux <https://github.com/cldwalker/tux>`_: Tux is
-   a Ruby shell interface for Sinatra. It gives you a simple interface
-   to interact with all parts of your application from the
-   commandline. It can directly call your helpers and views, or
-   generate your own request/response data.
+-  `cldwalker/tux <https://github.com/cldwalker/tux>`_: 
+   Tux является Ruby-интерфейсом командной строки для Sinatra. Он дает вам 
+   простой интерфейс для взаимодействия со всеми частями вашего приложения из 
+   командной строки. Он может напрямую вызывать helpers и views, или 
+   генерировать собственные данные для request/response.  
 
--  `ded/Ender.js <https://github.com/ded/Ender.js>`_: This new
-   JavaScript module is actually 8 minimal utilities smashed into one:
+-  `ded/Ender.js <https://github.com/ded/Ender.js>`_: 
+   Этот новый модуль JavaScript на самом деле является набором из 8 минималистичных 
+   утилит в одной:
    `klass <https://github.com/ded/klass>`_,
    `qwery <https://github.com/ded/qwery>`_,
    `bonzo <https://github.com/ded/bonzo>`_,
    `bean <https://github.com/fat/bean>`_,
    `script.js <https://github.com/ded/script.js>`_,
    `reqwest <https://github.com/ded/Reqwest>`_,
-   `emile <https://github.com/ded/emile>`_, and
+   `emile <https://github.com/ded/emile>`_, и
    `underscore.js <https://github.com/documentcloud/underscore/>`_.
-   Running in at only 8KB, Ender.js combines the of all of these
-   powerful modules into one elegant API. Features include: a class
-   system, custom selector engine, DOM manipulation, events system,
-   asynchronous dependency loading, simple animations, and a robust
-   extension API. The codebase is powered by git-submodules and can be
-   rebuilt with Node.js.
+   Занимая только 8 кб, Ender.js объединяет всех эти мощные модули в одном 
+   элегантном API. Фичи: система классов, кастомизируемый selector engine, 
+   манипуляции с DOM, система событий, асинхронная загрузка зависимостей, 
+   простые анимации, и надежное API для расширений.  
 
 
-Feedback is appreciated! Send any questions, suggestions, and
-anonymous tips to reflog@kennethreitz.com.
+
+Обратная связь приветствуется! Отправляйте ваши вопросы, предложения, и
+анонимные советы на reflog@kennethreitz.com.
+Email для связи по поводу русскоязычной версии: alone.amper+reflog@gmail.com
 
 --------------
 
-For more open source news, check out
-`The Changelog <http://thechangelog.com>`_ and
-`github.com/explore <http://github.com/explore>`_.
+Больше новостей о проектах с открытым исходным кодом, вы можете получить на
+`The Changelog <http://thechangelog.com>`_ и
+`github/explore <http://github.com/explore>`_.
