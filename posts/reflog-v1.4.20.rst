@@ -102,8 +102,7 @@ GitHub Reflog v1.4.20 (Русскоязычная версия)
    чрезвычайно полезны по завершении. Определенно, его не стоит упускать из виду.
 
 -  `dbyrne/4clojure <https://github.com/dbyrne/4clojure>`_: Интерактивное учебное
-  пособие в виде веб-сайта для начинающих изучать Clojure (похож на
-   `Try Redis <https://github.com/alexmchale/try.redis>`_). 
+  пособие в виде веб-сайта для начинающих изучать Clojure (похож на `Try Redis <https://github.com/alexmchale/try.redis>`_). 
    Там ещё предстоит кое-что доделать, так что гляньте страницы с задачами
    `страницы с задачами <https://github.com/dbyrne/4clojure/issues>`_, еслиб
    захотите помочь.
