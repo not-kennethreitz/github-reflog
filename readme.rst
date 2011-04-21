@@ -1,15 +1,14 @@
-GitHub Reflog
+GitHub Reflog (Русскоязычная версия)
 =============
 
-Welcome to The GitHub Reflog archive. The Reflog is a weekly chronicle
-of awesome repos, published on the GitHub blog,  brought to
-you by `Kenneth Reitz <https://github.com/kennethreitz>`_, one of
-the classy gentlemen behind
-`The Changelog <http://thechangelog.com>`_ and a ton of
-`open source projects <https://github.com/kennethreitz>`_.
+Добро пожаловать в архив GitHub Reflog. Reflog является еженедельной хроникой
+интересных и удивительных репозиториев, публикующейся в блоге GitHub 
+от `Kenneth Reitz <https://github.com/kennethreitz>`_, одного из
+стильных господ с `The Changelog <http://thechangelog.com>`_ и имеющего тонну
+`opensource-проектов <https://github.com/kennethreitz>`_.
 
 
-Releases
+Выпуски
 ~~~~~~~~
 
 +-------------+--------------+------------+------------+
@@ -42,11 +41,12 @@ Releases
 .. _`v1.4.20`: https://github.com/blog/840-github-reflog-v1-4-20
 .. _`r1.4.20`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.4.20.rst
 
-Feedback is appreciated! Send any questions, suggestions, and
-anonymous tips to reflog@kennethreitz.com.
+Обратная связь приветствуется! Отправляйте ваши вопросы, предложения, и
+анонимные советы на reflog@kennethreitz.com.
+Email для связи по поводу русскоязычной версии: alone.amper+reflog@gmail.com
 
 --------------
 
-For more open source news, check out
-`The Changelog <http://thechangelog.com>`_ and
+Больше новостей о проектах с открытым исходным кодом, вы можете получить на
+`The Changelog <http://thechangelog.com>`_ и
 `github/explore <http://github.com/explore>`_.
