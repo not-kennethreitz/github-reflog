@@ -1,56 +1,50 @@
-GitHub Reflog v1.3.21
+GitHub Reflog v1.3.21 (Русскоязычная версия)
 =====================
 
-Welcome to the first edition of The GitHub Reflog. This is a
-new weekly installment chronicling awesome GitHub repos, brought to
-you by `Kenneth Reitz <https://github.com/kennethreitz>`_, one of
-the classy gentlemen behind
-`The Changelog <http://thechangelog.com>`_ and a ton of
-`open source projects <https://github.com/kennethreitz>`_.
+Добро пожаловать в архив GitHub Reflog. Reflog является еженедельной хроникой
+интересных и удивительных репозиториев, публикующейся в блоге GitHub 
+от `Kenneth Reitz <https://github.com/kennethreitz>`_, одного из
+стильных господ с `The Changelog <http://thechangelog.com>`_, имеющего тонну
+`opensource-проектов <https://github.com/kennethreitz>`_.
 
 
 
-Featured Repo of the Week
+Рекомендуемые репозитории этой недели
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `devstructure/blueprint <https://github.com/devstructure/blueprint>`_
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-This is one of the coolest projects I've seen in a long time.
+Это один из самых клёвых проектов среди тех, которые я видел в последнее время.
 
-Simply put, Blueprint reverse engineers servers. It scans your
-system, records installed packages from various managers (aptitude,
-ruby's gem, python's pip, etc), archives software built from
-source, and records configuration file changes. It then packages
-your entire server configuration into a ``bootstrap.sh`` file with
-an attached archive. You can take that bootstrap package and run it
-anywhere to replicate your server setup.
+Проще говоря, Blueprint - сборщик конфигурации вашего сервера.
+Он сканирует вашу систему, запоминает установленные пакеты из различных 
+менеджеров (aptitude, ruby's gem, python's pip и т.д.), архивы с ПО, собираемым 
+из исходников, конфигурационные файлы. Затем полностью запаковывает вашу
+конфигурацию сервера в файл ``bootstrap.sh`` с приложенным архивом. Вы можете 
+взять этот загрузочный пакет и запустить его в любом месте, чтобы повторить 
+конфигурацию вашего сервера.
 
-Then, Blueprint takes it to the next level: it generates full
-recipes/manifests for both
-`Chef <https://github.com/opscode/chef>`_ and
-`Puppet <https://github.com/puppetlabs/puppet>`_ with the
-``blueprint-create {-C | -P}`` command.
+А теперь Blueprint вышел на новый уровень: он генерирует полные копии/манифесты 
+для `Chef <https://github.com/opscode/chef>`_ и `Puppet <https://github.com/puppetlabs/puppet>`_ с помощью команды ``blueprint-create {-C | -P}``.
 
-Of course, QA is required for the resulting recipes, but it's a
-definitely a great first step for streamlining your existing
-systems.
+Конечно же, необходимо проверить качество резульатат такого копирования, но 
+это определённо уже большой шаг в автоматизации ваших систем.
 
-Bon appétit!
+Bon appetit!
 
 
 
-Awesome Repo of the Week
+Удивительные репозитории этой недели
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 `drbrain/meme <https://github.com/drbrain/meme/>`_
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
-I CAN HAS MEME? Meme is an awesome Ruby gem for generating
-memegenerator.net images from the command line. It features SPARTA,
-PHILOSORAPTOR, KEANU, TROLLFACE, and many more. The resulting pull
-requests are definitely
-`worth looking at <https://github.com/drbrain/meme/pull/13>`_.
+У вас есть мем? Meme - это удивительный Ruby-gem для генерации
+изображений memegenerator.net из коммандной строки. Поддерживаются: SPARTA,
+PHILOSORAPTOR, KEANU, TROLLFACE, и многое другое. 
+Результаты определенно `стоит посмотреть <https://github.com/drbrain/meme/pull/13>`_.
 
 ::
 
@@ -61,61 +55,54 @@ requests are definitely
 
 
 
-Remarkable Repos
+Замечательные репозитории
 ~~~~~~~~~~~~~~~~
 
 
 -  `taitems/Aristo-jQuery-UI-Theme <https://github.com/taitems/Aristo-jQuery-UI-Theme>`_:
-     This is not a new project, but it received a lot of attention this
-     week. Aristo is a
-     `beautiful <http://taitems.github.com/Aristo-jQuery-UI-Theme/>`_
-     theme for `jQuery UI <https://github.com/jquery/jquery-ui>`_ that
-     emulates the elegant style of the
-     `Cappuccino <https://github.com/280north/cappuccino>`_ JavaScript
-     framework. jQuery UI has a bad reputation for having
-     less-than-desirable themes available for its widgets. Aristo
-     strives to fix that.
+     Это не новый проект, но он привлек очень много внимания на этой неделе.
+     Aristo - это `прекрасная <http://taitems.github.com/Aristo-jQuery-UI-Theme/>`_ тема оформления для `jQuery UI <https://github.com/jquery/jquery-ui>`_ 
+     которая эмулирует элегантный стиль JavaScript-фреймворка `Cappuccino <https://github.com/280north/cappuccino>`_. 
+     jQuery UI имеет плохую репутацию за то, что имеет меньше-чем-хочется тем 
+     оформления для своих виджетов. Aristo стремится исправить это.
 
 -  `brainsik/virtualenv-burrito <https://github.com/brainsik/virtualenv-burrito>`_:
-     This project simplifies the
-     `virtualenv <https://github.com/pypa/virtualenv>`_/wrapper setup in
-     your Python development environment. Sprinters at last week's PyCon
-     2011 had to spend a large amount of time setting up their
-     environments before they could contribute. This project aims to
-     remove that overhead.
+     Этот проект упрощает настройку
+     `virtualenv <https://github.com/pypa/virtualenv>`_/обертки в вашей среде
+     разработки на Python. Спринтеры с PyCon 2011 на прошлой неделе потратили 
+     кучу времени на настройку IDE перед тем, как могли начать разработку. Этот
+     проект призван уменьшить подобные накладные расходы.
 
 -  `maccman/ichabod <https://github.com/maccman/ichabod>`_:
-     This project lets you run headless WebKit JavaScript tests from the
-     command line. It currently offers Jasmine and QUnit testing
-     support. It also gives you an interactive JavaScript console that
-     has access to the Ruby stack.
+     Этот проект позволяет запускать WebKit JavaScript тесты из командной строки. 
+     В настоящее время он поддерживает Jasmine и QUnit тестирование. Он также 
+     даёт вам интерактивную JavaScript-консоль, имеющую доступ к Ruby-стеку.
 
 
 
-Promising Repos
+Перспективные репозитории
 ~~~~~~~~~~~~~~~
 
 
 -  `twitter/commons <https://github.com/twitter/commons>`_:
-     Twitter's internal common libraries for the JVM. Readme and build
-     instructions haven't been written yet, but this looks like an
-     extensive library suite. Everything from a
-     `memcached <https://github.com/memcached/memcached>`_ interface to
-     an argument parser is included. Check out
-     `the documentation <http://twitter.github.com/commons/apidocs/index.html>`_
-     to learn more.
+     Внутренние библиотеки Twitter для JVM. Readme и инструкции по сборке ещё
+     не написанны, но это выглядит как очень широкий набор библиотек. Включено 
+     всё, начиная от `memcached <https://github.com/memcached/memcached>`_-интерфейса 
+     до парсера аргументов командной строки. Почитайте `документацию <http://twitter.github.com/commons/apidocs/index.html>`_, 
+     чтобы узнать больше.
 
 -  `extend/cowboy <https://github.com/extend/cowboy>`_: 
-     This "Small, fast, modular HTTP server" is implemented 100% in Erlang.
-     It's an ambitious project that's still in the early development
-     stage. Contributors are welcome!
+     Это "Маленький, быстрый, модульный HTTP-сервер" на полностью на Erlang.
+     Это амбициозный проект, находящийся в ранней стадии развития. 
+     Новые разработчики приветствуются!
 
 
-Feedback is appreciated! Send any questions, suggestions, and
-anonymous tips to reflog@kennethreitz.com.
+Обратная связь приветствуется! Отправляйте ваши вопросы, предложения, и
+анонимные советы на reflog@kennethreitz.com.
+Email для связи по поводу русскоязычной версии: alone.amper+reflog@gmail.com
 
 --------------
 
-For more open source news, check out
-`The Changelog <http://thechangelog.com>`_ and
+Больше новостей о проектах с открытым исходным кодом, вы можете получить на
+`The Changelog <http://thechangelog.com>`_ и
 `github/explore <http://github.com/explore>`_.
