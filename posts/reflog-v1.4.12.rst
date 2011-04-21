@@ -29,6 +29,8 @@ GitHub Reflog v1.4.12 (Русскоязычная версия)
 Удивительные репозиторий этой недели
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+`asarazan/Narwhalingus-EP <https://github.com/asarazan/Narwhalingus-EP>`_
+
 @Asarazan нашел новое великолепное применение GitHub на этой неделе. 
 Он и его группа, Bristol 7's, решили `опубликовать их EP <http://thebristol7s.wordpress.com/2011/04/10/fork-us-on-github/>`_
 под лицензией Creative Commons. В духе открытого исходного кода, было решено 
