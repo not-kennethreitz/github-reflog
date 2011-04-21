@@ -8,6 +8,9 @@ the classy gentlemen behind
 `The Changelog <http://thechangelog.com>`_ and a ton of
 `open source projects <https://github.com/kennethreitz>`_.
 
+This archive is also
+`available in Russian <https://github.com/Amper/github-reflog>`_, thanks
+to Alexander Marshalov!
 
 Releases
 ~~~~~~~~
