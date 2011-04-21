@@ -27,19 +27,19 @@ GitHub Reflog (Русскоязычная версия)
 
 
 .. _`v1.3.21`: https://github.com/blog/818-github-reflog-v1-3-21
-.. _`r1.3.21`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.3.21.rst
+.. _`r1.3.21`: https://github.com/amper/github-reflog/blob/master/posts/reflog-v1.3.21.rst
 
 .. _`v1.3.28`: https://github.com/blog/823-github-reflog-v1-3-28
-.. _`r1.3.28`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.3.28.rst
+.. _`r1.3.28`: https://github.com/amper/github-reflog/blob/master/posts/reflog-v1.3.28.rst
 
 .. _`v1.4.04`: https://github.com/blog/829-github-reflog-v1-4-04
-.. _`r1.4.04`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.4.04.rst
+.. _`r1.4.04`: https://github.com/amper/github-reflog/blob/master/posts/reflog-v1.4.04.rst
 
 .. _`v1.4.12`: https://github.com/blog/837-github-reflog-v1-4-12
-.. _`r1.4.12`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.4.12.rst
+.. _`r1.4.12`: https://github.com/amper/github-reflog/blob/master/posts/reflog-v1.4.12.rst
 
 .. _`v1.4.20`: https://github.com/blog/840-github-reflog-v1-4-20
-.. _`r1.4.20`: https://github.com/kennethreitz/github-reflog/blob/master/posts/reflog-v1.4.20.rst
+.. _`r1.4.20`: https://github.com/amper/github-reflog/blob/master/posts/reflog-v1.4.20.rst
 
 Обратная связь приветствуется! Отправляйте ваши вопросы, предложения, и
 анонимные советы на reflog@kennethreitz.com.
