@@ -4,7 +4,7 @@ GitHub Reflog (Русскоязычная версия)
 Добро пожаловать в архив GitHub Reflog. Reflog является еженедельной хроникой
 интересных и удивительных репозиториев, публикующейся в блоге GitHub 
 от `Kenneth Reitz <https://github.com/kennethreitz>`_, одного из
-стильных господ с `The Changelog <http://thechangelog.com>`_ и имеющего тонну
+стильных господ с `The Changelog <http://thechangelog.com>`_, имеющего тонну
 `opensource-проектов <https://github.com/kennethreitz>`_.
 
 
