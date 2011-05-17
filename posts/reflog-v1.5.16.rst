@@ -1,14 +1,14 @@
 GitHub Reflog v1.5.16 (Русскоязычная версия)
 =====================
 
-Добро пожаловать в **The GitHub Reflog** — еженедельную хронику
+Добро пожаловать в **GitHub Reflog** — еженедельную хронику
 замечательных репозиториев GitHub и активности сообщества. Предыдущие
 выпуски доступны в 
 `Архиве Reflog <https://github.com/kennethreitz/github-reflog>`_.
 
 Спасибо за отличную работу Александру Маршалову, архив Reflog
 теперь
-`переведён на Русский Язык <https://github.com/Amper/github-reflog>`_!
+`переведён на Русский Язык <https://github.com/Amper/github-reflog>`_ !
 
 Рекомендованный репозиторий недели
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ GitHub Reflog v1.5.16 (Русскоязычная версия)
 
 
 -  `tweetdeck/TDOAuth <https://github.com/tweetdeck/TDOAuth>`_:
-   Маленькая и элегантная реализация OAuth v1.0 для приложений iOS applications.
+   Маленькая и элегантная реализация OAuth v1.0 для приложений iOS.
    Написаный Максом Хауэллом, автором знаменитого
    `homebrew <https://github.com/mxcl/homebrew>`_, этот лицензированный под
    BSD проект стремится быть лучше по сравнению с другими реализациями
@@ -70,7 +70,7 @@ GitHub Reflog v1.5.16 (Русскоязычная версия)
 
 -  `enonic/cms-ce <https://github.com/enonic/cms-ce>`_: Новая 
    community-версия Enonic CMS, основанная на Java's Spring
-   Framework и JEE. В отличие от коммерческой версии в лицензированной 
+   Framework и JEE. В отличие от коммерческой версии, в лицензированной 
    под AGPLv3 Community-версии отсутствует движок плагинов и 
    поддержка LDAP/AD.
 
