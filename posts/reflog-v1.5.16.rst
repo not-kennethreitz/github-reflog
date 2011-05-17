@@ -49,7 +49,7 @@ Remarkable Repos
    the other OAuth solutions available to Objective-C developers.
 
 -  `sporst/SWFREtools <https://github.com/sporst/SWFREtools>`_:
-   A toolset for everse engineering and performing security audits on
+   A toolset for reverse engineering and performing security audits on
    Adobe Flash Player and compiled SWF files. It features an SFW
    Parser, SWF Minimizer, Flash Debugger, and Metrics Generator. This
    GPLv2 licensed project is powered by both Java and Python.
@@ -66,7 +66,7 @@ Remarkable Repos
    to see it in action.
 
 -  `enonic/cms-ce <https://github.com/enonic/cms-ce>`_: New
-   community edition of the Enonic CMS, bsaed on Java's Spring
+   community edition of the Enonic CMS, based on Java's Spring
    Framework and JEE. Unlike the commercial version, the AGPLv3
    licensed Community Edition lacks a plugin engine and LDAP/AD
    support.
