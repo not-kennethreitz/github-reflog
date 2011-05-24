@@ -75,7 +75,7 @@ PHILOSORAPTOR，KEANU，TROLLFACE 等等热门图片。此代码库的 Pull 请�
 -  `twitter/commons <https://github.com/twitter/commons>`_:
      Twitter 内部针对 JVM 的公共库。虽然 Readme 和编译指南仍没有写好，但看得出这是一个很全面的库，
      从 `memcached <https://github.com/memcached/memcached>`_ 接口到参数解释器等无所不包。详情
-     情参看 `文档 <http://twitter.github.com/commons/apidocs/index.html>`_。
+     情参看 `文档 <http://twitter.github.com/commons/apidocs/index.html>`_ 。
 
 -  `extend/cowboy <https://github.com/extend/cowboy>`_: 
      这是一个完全由 Erlang 实现的 HTTP 服务器，轻量，快速且模块化。这是一个刚刚起步的新项目，极富野心，欢迎贡献者加入！
@@ -86,4 +86,4 @@ PHILOSORAPTOR，KEANU，TROLLFACE 等等热门图片。此代码库的 Pull 请�
 --------------
 
 更多开源界新闻，请查阅 `The Changelog <http://thechangelog.com>`_ 和
- `github/explore <http://github.com/explore>`_。
+ `github/explore <http://github.com/explore>`_ 。
