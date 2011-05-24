@@ -3,7 +3,7 @@ GitHub Reflog v1.3.21
 
 感谢您的阅读，这是 GitHub Reflog 的第一个版本。Github Reflog 每周为您
 推荐托管在 Github 上的优秀项目。作者 `Kenneth Reitz <https://github.com/kennethreitz>`_ 是
-`The Changelog <http://thechangelog.com>`_ 等一系列`开源项目 <https://github.com/kennethreitz>`_的幕后黑手。
+`The Changelog <http://thechangelog.com>`_ 等一系列 `开源项目 <https://github.com/kennethreitz>`_ 的幕后黑手。
 
 
 
@@ -38,7 +38,7 @@ GitHub Reflog v1.3.21
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Meme 是以命令行形式生成 memegenerator.net 图片的优秀 ruby gem。它支持 SPARTA，
-PHILOSORAPTOR，KEANU，TROLLFACE 等等热门图片。此代码库的 Pull 请求页面`灰常值得一看 <https://github.com/drbrain/meme/pull/13>`_。
+PHILOSORAPTOR，KEANU，TROLLFACE 等等热门图片。此代码库的 Pull 请求页面 `灰常值得一看 <https://github.com/drbrain/meme/pull/13>`_。
 
 ::
 
@@ -54,7 +54,7 @@ PHILOSORAPTOR，KEANU，TROLLFACE 等等热门图片。此代码库的 Pull 请�
 
 
 -  `taitems/Aristo-jQuery-UI-Theme <https://github.com/taitems/Aristo-jQuery-UI-Theme>`_:
-     这不是一个新项目，但在本周它得到了分外的关注。Aristo 是一个`很漂亮的 <http://taitems.github.com/Aristo-jQuery-UI-Theme/>`_
+     这不是一个新项目，但在本周它得到了分外的关注。Aristo 是一个 `很漂亮的 <http://taitems.github.com/Aristo-jQuery-UI-Theme/>`_ 
      `jQuery UI <https://github.com/jquery/jquery-ui>`_ 主题。它模仿了 JavaScript 框架 `Cappuccino <https://github.com/280north/cappuccino>`_
      的简洁样式。对于主题风格上明显短板的 jQuery UI，Aristo 力求有所改变。
 
@@ -74,8 +74,8 @@ PHILOSORAPTOR，KEANU，TROLLFACE 等等热门图片。此代码库的 Pull 请�
 
 -  `twitter/commons <https://github.com/twitter/commons>`_:
      Twitter 内部针对 JVM 的公共库。虽然 Readme 和编译指南仍没有写好，但看得出这是一个很全面的库，
-     从`memcached <https://github.com/memcached/memcached>`_ 接口到参数解释器等无所不包。详情
-     情参看`文档 <http://twitter.github.com/commons/apidocs/index.html>`_。
+     从 `memcached <https://github.com/memcached/memcached>`_ 接口到参数解释器等无所不包。详情
+     情参看 `文档 <http://twitter.github.com/commons/apidocs/index.html>`_。
 
 -  `extend/cowboy <https://github.com/extend/cowboy>`_: 
      这是一个完全由 Erlang 实现的 HTTP 服务器，轻量，快速且模块化。这是一个刚刚起步的新项目，极富野心，欢迎贡献者加入！
@@ -85,5 +85,5 @@ PHILOSORAPTOR，KEANU，TROLLFACE 等等热门图片。此代码库的 Pull 请�
 
 --------------
 
-更多开源界新闻，请查阅`The Changelog <http://thechangelog.com>`_ 和
-`github/explore <http://github.com/explore>`_。
+更多开源界新闻，请查阅 `The Changelog <http://thechangelog.com>`_ 和
+ `github/explore <http://github.com/explore>`_。
