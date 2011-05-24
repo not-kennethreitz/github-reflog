@@ -15,7 +15,7 @@ GitHub Reflog v1.3.21
 
 这是许久以来我所见过的最酷项目之一。
 
-简单的说，Blueprint可以对服务器进行“反响工程”。它扫描您的系统，记录下通过包
+简单的说，Blueprint可以对服务器进行“反向工程”。它扫描您的系统，记录下通过包
 管理器（aptitude，ruby 的 gem，python 的 pip）安装的，和自源代码编译安装的软
 件，并记下配置文件的变更。最后将您整个服务器的配置打包成一个 ``bootstrap.sh`` 
 文件和一个压缩包。通过者两个文件，您可以在任何服务器上精确地复制服务器配置。
@@ -55,7 +55,7 @@ PHILOSORAPTOR，KEANU，TROLLFACE 等等热门图片。此代码库的 Pull 请�
 
 -  `taitems/Aristo-jQuery-UI-Theme <https://github.com/taitems/Aristo-jQuery-UI-Theme>`_:
      这不是一个新项目，但在本周它得到了分外的关注。Aristo 是一个`很漂亮的 <http://taitems.github.com/Aristo-jQuery-UI-Theme/>`_
-     `jQuery UI <https://github.com/jquery/jquery-ui>`_ 主题。它模仿了 JavaScript 框架 `jQuery UI <https://github.com/jquery/jquery-ui>`_
+     `jQuery UI <https://github.com/jquery/jquery-ui>`_ 主题。它模仿了 JavaScript 框架 `Cappuccino <https://github.com/280north/cappuccino>`_
      的简洁样式。对于主题风格上明显短板的 jQuery UI，Aristo 力求有所改变。
 
 -  `brainsik/virtualenv-burrito <https://github.com/brainsik/virtualenv-burrito>`_:
