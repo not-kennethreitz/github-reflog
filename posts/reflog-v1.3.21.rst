@@ -38,7 +38,7 @@ GitHub Reflog v1.3.21
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Meme 是以命令行形式生成 memegenerator.net 图片的优秀 ruby gem。它支持 SPARTA，
-PHILOSORAPTOR，KEANU，TROLLFACE 等等热门图片。此代码库的 Pull 请求页面 `灰常值得一看 <https://github.com/drbrain/meme/pull/13>`_。
+PHILOSORAPTOR，KEANU，TROLLFACE 等等热门图片。此代码库的 Pull 请求页面 `灰常值得一看 <https://github.com/drbrain/meme/pull/13>`_ 。
 
 ::
 
