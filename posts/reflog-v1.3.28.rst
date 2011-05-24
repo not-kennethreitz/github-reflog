@@ -1,7 +1,6 @@
 GitHub Reflog v1.3.28
 =====================
 
-`The Reflog Archive <https://github.com/kennethreitz/github-reflog>`_.
 感谢您的阅读，这是 **The GitHub Reflog** 的第二版。Github Reflog 每周为您推荐 GitHub 上的优秀代码库。您可以在 `Reflog 存档 <https://github.com/kennethreitz/github-reflog>`_ 处找到往期文章。
 
 本周最佳
