@@ -1,7 +1,7 @@
 GitHub Reflog
 =============
 
-Welcome to The GitHub Reflog archive. The Reflog is a weekly chronicle
+Welcome to The GitHub Reflog archive. The Reflog was a weekly chronicle
 of awesome repos, published on the GitHub blog,  brought to
 you by `Kenneth Reitz <https://github.com/kennethreitz>`_, one of
 the classy gentlemen behind
